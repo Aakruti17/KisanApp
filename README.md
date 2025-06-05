@@ -1,4 +1,4 @@
-![image alt](https://github.com/Aakruti17/KisanApp/blob/da02586c9391e35394378bc63455a312a661e1c5/vibes.png)
+![image alt](https://github.com/Aakruti17/KisanApp/blob/820951037ec711a836aecf50ed514608138dea27/Kisan%20App.png)
 # KisanApp
 
 ### Project Description 
