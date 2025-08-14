@@ -1,20 +1,64 @@
-![image alt](https://github.com/Aakruti17/KisanApp/blob/820951037ec711a836aecf50ed514608138dea27/Kisan%20App.png)
-# KisanApp
+# 🌾 Kisan App
 
-### Project Description 
-The Kisan App is an innovative web application designed to support the agricultural community by connecting farmers with essential services and resources. This platform addresses several critical challenges faced by farmers, such as the lack of timely access to farming services, high costs associated with agricultural equipment, and limited awareness of modern agricultural technologies
+**A web-based platform empowering farmers with access to agricultural resources, product listings, and community updates.**
 
-### Technologies Used Languages: 
-* Advanced Java
-* JSP
-* HTML 
-### Frameworks: 
-* Apache Tomcat 
-### IDE: 
-* Eclipse IDE
+![Kisan App Banner](https://github.com/Aakruti17/KisanApp/blob/820951037ec711a836aecf50ed514608138dea27/Kisan%20App.png)
 
-### Modules Admin Module 
+---
 
-In the Admin Module, administrators can manage various aspects of the application, including a comprehensive dashboard for viewing products, accessing news notifications, adding new products, updating existing news, and managing user accounts through login and signup functionalities. This module is crucial for maintaining efficient operations and ensuring that users receive timely information.
-### User/Farmer Module
-The Farmer Module empowers farmers to actively participate in the platform by allowing them to add their products for sale, update community news, and manage their accounts through login and signup features. This module facilitates direct interaction between farmers and consumers, promoting transparency and accessibility in agricultural product distribution. Overall, the Kisan App aims to enhance communication and commerce within the agricultural sector, ultimately benefiting both farmers and consumers.
+## 📌 Overview
+The **Kisan App** is designed to address challenges faced by farmers, such as:  
+- Limited access to modern farming services  
+- High costs of agricultural equipment  
+- Lack of awareness about new agricultural technologies  
+
+By connecting farmers directly with essential services, community news, and buyers, this app improves accessibility, transparency, and communication within the agricultural sector.
+
+---
+
+## ✨ Features
+- 👨‍🌾 **Farmer Module** – Farmers can add products for sale, share community news, and manage accounts.
+- 🛠 **Admin Module** – Admins can manage product listings, post news, update information, and manage user accounts.
+- 📄 **User Authentication** – Secure login and signup for both farmers and admins.
+- 📢 **Community Updates** – Farmers can post and view agricultural news and announcements.
+- 📱 **Responsive UI** – Optimized for desktop and mobile use.
+
+---
+
+## 🚀 Live Demo
+*(Add link here when deployed)*
+
+---
+
+## 🖼️ Screenshots
+| Home Page | Product List | Add Product | Admin Dashboard |
+|-----------|--------------|-------------|-----------------|
+| ![Home](#) | ![Products](#) | ![Add Product](#) | ![Admin Dashboard](#) |
+
+---
+
+## 🛠 Tech Stack
+| Category       | Tools / Technologies |
+|----------------|----------------------|
+| 💻 Languages   | Advanced Java, JSP, HTML |
+| 🖥 Framework   | Apache Tomcat |
+| 🗄 Database    | Oracle Database |
+| 🛠 IDE         | Eclipse IDE |
+
+---
+
+## 📁 Modules
+
+### 🔹 Admin Module
+- Manage products (Add, Update, Delete)  
+- Post and update agricultural news  
+- View farmer activities and user accounts  
+
+### 🔹 Farmer Module
+- Add products for sale  
+- Post and update community news  
+- Manage personal profile and login details  
+
+---
+
+## 📂 Project Structure
