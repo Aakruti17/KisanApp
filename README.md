@@ -27,9 +27,9 @@ This project was developed during an **internship at Sun Infotech** as part of a
 ---
 
 ## 🖼️ Screenshots
-| Home Page | Product List | Add Product | Admin Dashboard |
+| Home Page | Farmer Signup | Farmer Login | Admin Dashboard |
 |-----------|--------------|-------------|-----------------|
-| ![Home](#) | ![Products](#) | ![Add Product](#) | ![Admin Dashboard](#) |
+| ![Home](https://github.com/Aakruti17/KisanApp/blob/b85138cb613dac8cbcf9439f76f9ef05c551102f/Screenshot%202025-08-15%20191445.png) | ![signup](https://github.com/Aakruti17/KisanApp/blob/b85138cb613dac8cbcf9439f76f9ef05c551102f/Screenshot%202025-08-15%20191507.png) | ![login](https://github.com/Aakruti17/KisanApp/blob/b85138cb613dac8cbcf9439f76f9ef05c551102f/Screenshot%202025-08-15%20191543.png) | ![Admin Dashboard](#) |
 
 ---
 
