@@ -7,26 +7,22 @@
 ---
 
 ## 📌 Overview
-The **Kisan App** is designed to address challenges faced by farmers, such as:  
-- Limited access to modern farming services  
-- High costs of agricultural equipment  
-- Lack of awareness about new agricultural technologies  
+The **Kisan App** is a web platform designed to support farmers from **crop cultivation to production**.  
+It provides accurate and timely information, connects them with **organic fertilizer & spray dealers**, and shares **latest agricultural news**.  
 
-By connecting farmers directly with essential services, community news, and buyers, this app improves accessibility, transparency, and communication within the agricultural sector.
+This project was developed during an **internship at Sun Infotech** as part of a team of interns from different colleges, using **Java, Servlets, and JSP** for the backend.
 
+---
+## Modules
+![module](#)
 ---
 
 ## ✨ Features
-- 👨‍🌾 **Farmer Module** – Farmers can add products for sale, share community news, and manage accounts.
-- 🛠 **Admin Module** – Admins can manage product listings, post news, update information, and manage user accounts.
-- 📄 **User Authentication** – Secure login and signup for both farmers and admins.
-- 📢 **Community Updates** – Farmers can post and view agricultural news and announcements.
-- 📱 **Responsive UI** – Optimized for desktop and mobile use.
-
----
-
-## 🚀 Live Demo
-*(Add link here when deployed)*
+- 👨‍🌾 **Farmer Dashboard** – Organic product info, cultivation manuals, latest news, and product enquiries
+- 🛠 **Admin Dashboard** – Manage products, farmers’ info, and add latest news
+- 🔗 **Dealer Connection** – Connect organic product companies with farmers
+- 📢 **News Updates** – Keep farmers informed with the latest agricultural news
+- 📱 **User-friendly UI** – Simple navigation for both farmers and admins
 
 ---
 
@@ -44,21 +40,13 @@ By connecting farmers directly with essential services, community news, and buye
 | 🖥 Framework   | Apache Tomcat |
 | 🗄 Database    | Oracle Database |
 | 🛠 IDE         | Eclipse IDE |
+ 
 
 ---
 
-## 📁 Modules
+### 🧪 How It Works
 
-### 🔹 Admin Module
-- Manage products (Add, Update, Delete)  
-- Post and update agricultural news  
-- View farmer activities and user accounts  
-
-### 🔹 Farmer Module
-- Add products for sale  
-- Post and update community news  
-- Manage personal profile and login details  
-
----
-
-## 📂 Project Structure
+- Admin Login: Can add/update products, manage farmer info, and post news
+- Farmer Login: Can view organic products, read cultivation manuals, submit feedback, and send product enquiries
+- Error Handling: Displays login errors for incorrect credentials
+- Data Flow: Follows the flowchart for role-based access
